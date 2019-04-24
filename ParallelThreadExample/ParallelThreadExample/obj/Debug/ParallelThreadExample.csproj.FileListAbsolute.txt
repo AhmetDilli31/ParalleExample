@@ -1,0 +1,7 @@
+c:\users\adilli\source\repos\ParallelThreadExample\ParallelThreadExample\bin\Debug\ParallelThreadExample.exe.config
+c:\users\adilli\source\repos\ParallelThreadExample\ParallelThreadExample\bin\Debug\ParallelThreadExample.exe
+c:\users\adilli\source\repos\ParallelThreadExample\ParallelThreadExample\bin\Debug\ParallelThreadExample.pdb
+c:\users\adilli\source\repos\ParallelThreadExample\ParallelThreadExample\obj\Debug\ParallelThreadExample.csprojAssemblyReference.cache
+c:\users\adilli\source\repos\ParallelThreadExample\ParallelThreadExample\obj\Debug\ParallelThreadExample.csproj.CoreCompileInputs.cache
+c:\users\adilli\source\repos\ParallelThreadExample\ParallelThreadExample\obj\Debug\ParallelThreadExample.exe
+c:\users\adilli\source\repos\ParallelThreadExample\ParallelThreadExample\obj\Debug\ParallelThreadExample.pdb
